@@ -1,0 +1,9 @@
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\bin\Debug\save_load_dgv_in_txt.exe.config
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.csprojResolveAssemblyReference.cache
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.Form1.resources
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.Properties.Resources.resources
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.csproj.GenerateResource.Cache
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\bin\Debug\save_load_dgv_in_txt.exe
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\bin\Debug\save_load_dgv_in_txt.pdb
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.exe
+C:\Users\Markushin_DS\Desktop\save_load_dgv_in_txt\save_load_dgv_in_txt\obj\Debug\save_load_dgv_in_txt.pdb
